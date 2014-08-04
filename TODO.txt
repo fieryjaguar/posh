@@ -1,0 +1,15 @@
+This is a TO-DO list for posh. If you like, find an issue, fork, solve, and pull request!
+
+Bugs:
+None yet!
+
+=========================================================================================
+Features to be added:
+-Login
+-Basic shell
+
+=========================================================================================
+OS's to be ported:
+None yet! We won't port until the basic features are implemented. Regardless, feel free
+to work on a port!
+=========================================================================================
